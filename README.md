@@ -5,6 +5,7 @@
 <p align="center">
     <a href="https://pike-rag.azurewebsites.net/">🌐Online Demo</a>
     <a href="https://arxiv.org/abs/2501.11551">📊Technical Report</a>
+    <a href="https://github.com/itutopia/PIKE-RAG/edit/main/README_zh.md">🌐中文</a>
 </p>
 
 [![License](https://img.shields.io/github/license/microsoft/PIKE-RAG)](https://github.com/microsoft/PIKE-RAG/blob/main/LICENSE)
